@@ -9,7 +9,7 @@ const TeacherItem = () => {
     <article className="teacher-item">
       <header>
         <img
-          src="https://avatars2.githubusercontent.com/u/6912596?s=460&u=5cfe27b5ada871867e8f9d88384689e73d72f70c&v=4"
+          src="https://pbs.twimg.com/profile_images/1238987262228037632/aqx2o_YN_400x400.jpg"
           alt="Professor"
         />
 
